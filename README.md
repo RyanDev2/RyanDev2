@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Rinsey</h1>
 <p align="center">
   🎮 Game Developer | 🌐 Web Enthusiast
 </p>
